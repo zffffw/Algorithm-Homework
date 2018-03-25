@@ -1,0 +1,15 @@
+{
+    "python.linting.pylintEnabled": false,
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "algorithm": "cpp",
+        "ratio": "cpp",
+        "__locale": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "system_error": "cpp",
+        "map": "cpp",
+        "sstream": "cpp"
+    }
+}
